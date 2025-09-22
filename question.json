@@ -1,26 +1,146 @@
 [
     {
-        "question": "What is the specific date when the new Machinery Regulation (EU 2023/1230) will fully replace the old Machinery Directive (2006/42/EC)?"
+        "question": "What is the specific date when the new Machinery Regulation (EU 2023/1230) will fully replace the old Machinery Directive (2006/42/EC)?",
+        "answer": "MACHINERY REGULATION (EU) 2023/1230 TIMELINE Key dates 2023 2024 2025 2026 2027 The new Machinery Regulation (EU) 2023/1230 was published in the official journal on 29 June 2023, and entered into force on 19 July 2023, with a 42-month transition to the application date of 20 January 2027. This date is the same for all EU and EFTA countries; and being a regulation and not a directive means it will be adopted at the same time with no modification. After 20 January 2027, all machinery and related products will need to meet the requirements of the new regulation before being placed on the market. JULY 2025 JULY 2026 20 JANUARY 2027 JUNE 2023 Member States must provide data and information related to machinery and related products, including whether specific events have occurred. First report by the member states that assesses the effectiveness of Articles 6(4) and (5) Application of Regulation (EU) 2023/1230 for private companies Publication of Regulation (EU) 2023/1230 in the Official Journal.",
+        "contexts": [
+            {
+                "score": 1.0,
+                "source_link": "https://literature.rockwellautomation.com/idc/groups/literature/documents/sp/oem-sp123_-en-p.pdf",
+                "source_title": "Rockwell â€” A Guide to the Machinery Regulation (EU) 2023/1230",
+                "text": "MACHINERY REGULATION (EU) 2023/1230 TIMELINE Key dates 2023 2024 2025 2026 2027 The new Machinery Regulation (EU) 2023/1230 was published in the official journal on 29 June 2023, and entered into force on 19 July 2023, with a 42-month transition to the application date of 20 January 2027. This date is the same for all EU and EFTA countries; and being a regulation and not a directive means it will be adopted at the same time with no modification. After 20 January 2027, all machinery and related products will need to meet the requirements of the new regulation before being placed on the market. JULY 2025 JULY 2026 20 JANUARY 2027 JUNE 2023 Member States must provide data and information related to machinery and related products, including whether specific events have occurred. First report by the member states that assesses the effectiveness of Articles 6(4) and (5) Application of Regulation (EU) 2023/1230 for private companies Publication of Regulation (EU) 2023/1230 in the Official Journal."
+            },
+            {
+                "score": 0.7797351532387831,
+                "source_link": "https://literature.rockwellautomation.com/idc/groups/literature/documents/sp/oem-sp123_-en-p.pdf",
+                "source_title": "Rockwell â€” A Guide to the Machinery Regulation (EU) 2023/1230",
+                "text": "AFTER 20TH JANUARY 2027 The key changes to the new machinery regulation include a reordering of the annexes from the current machinery directive 2006/42/EC, a focus on changing technologies, and the threat from cybersecurity breaches. It is the first regulation to tie together machinery safety and cybersecurity. Machines must comply with the requirements of Regulation (EU) 2023/1230 and be accompanied by an EU Declaration of Conformity under that regulation."
+            }
+        ]
     },
     {
-        "question": "According to the documents, what are two new aspects introduced in the Machinery Regulation that were not explicitly covered in the 2006 Directive?"
+        "question": "According to the documents, what are two new aspects introduced in the Machinery Regulation that were not explicitly covered in the 2006 Directive?",
+        "answer": "Article 2 Scope\n1. This Regulation applies to machinery and the following related products:",
+        "contexts": [
+            {
+                "score": 1.0,
+                "source_link": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32023R1230",
+                "source_title": "Regulation (EU) 2023/1230 on machinery (Official Journal)",
+                "text": "Article 2 Scope\n1. This Regulation applies to machinery and the following related products:"
+            },
+            {
+                "score": 0.9041609056119146,
+                "source_link": "https://literature.rockwellautomation.com/idc/groups/literature/documents/sp/oem-sp123_-en-p.pdf",
+                "source_title": "Rockwell â€” A Guide to the Machinery Regulation (EU) 2023/1230",
+                "text": "AFTER 20TH JANUARY 2027 The key changes to the new machinery regulation include a reordering of the annexes from the current machinery directive 2006/42/EC, a focus on changing technologies, and the threat from cybersecurity breaches. It is the first regulation to tie together machinery safety and cybersecurity. Machines must comply with the requirements of Regulation (EU) 2023/1230 and be accompanied by an EU Declaration of Conformity under that regulation."
+            }
+        ]
     },
     {
-        "question": "What is the primary purpose of a Lockout/Tagout (LOTO) procedure?"
+        "question": "What is the primary purpose of a Lockout/Tagout (LOTO) procedure?",
+        "answer": "The purpose of lockout and tagout is to prevent the unexpected startup of the machine. Unexpected startup may be the result of various causes: a failure of the control system; an inappropriate action on a start control, sensor, contactor, or valve; a restoration of power after an interruption; or some other internal or external inﬂ uences. After completion of the lockout or tagout process, the dissipation of the energy must be veriﬁ ed.",
+        "contexts": [
+            {
+                "score": 1.0,
+                "source_link": "https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/safebk-rm002_-en-p.pdf",
+                "source_title": "Rockwell â€” Machinery SafeBook 5",
+                "text": "The purpose of lockout and tagout is to prevent the unexpected startup of the machine. Unexpected startup may be the result of various causes: a failure of the control system; an inappropriate action on a start control, sensor, contactor, or valve; a restoration of power after an interruption; or some other internal or external inﬂ uences. After completion of the lockout or tagout process, the dissipation of the energy must be veriﬁ ed."
+            },
+            {
+                "score": 0.9620573284954331,
+                "source_link": "https://www.rae.ca/wp-content/uploads/GuidelinesForSafeMachinery.pdf",
+                "source_title": "SICK â€” Guidelines for Safe Machinery",
+                "text": "Lock-Out / Tag-Out routine, repetitive and integral to the use of the machine for production and if work is performed using alternative effective protective measures. Lock-Out/Tag-Out (LOTO) is an essential safety procedure that protects employees who are exposed to hazardous energy during servicing/maintenance activities. Lock-Out involves applying a physical lock to all power sources on the equipment after they have been shut off and de-energized. Power sources can be mechanical, electrical, pneumatic or hydraulic. The source is then Tagged-Out with an easy-to-read tag that alerts other workers in the area that a lock has been applied. A hazardous energy control program is a critical part of an overall safety strategy and should include: ■Annual training and audits ■Machine Speciﬁ c LOTO procedures as part of the manual (see general checklist) ■Corporate policy Some minor servicing operations like minor tool changes or adjustments may have to be performed during normal production operations, and an employer may be exempt from LOTO in some instances. Operations are not covered by LOTO if they are Lock-Out/Tag-Out (LOTO) is supplementing – not substituting – proper machine safeguarding"
+            }
+        ]
     },
     {
-        "question": "Explain the difference between a 'Safety Function' and a 'Protective Measure' in the context of machine safety."
+        "question": "Explain the difference between a 'Safety Function' and a 'Protective Measure' in the context of machine safety.",
+        "answer": "(4) ‘safety function’ means a function that serves to fulfil a protective measure designed to eliminate, or, if that is not possible, to reduce, a risk, which, if it fails, could result in an increase of that risk;",
+        "contexts": [
+            {
+                "score": 1.0,
+                "source_link": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32023R1230",
+                "source_title": "Regulation (EU) 2023/1230 on machinery (Official Journal)",
+                "text": "(4) ‘safety function’ means a function that serves to fulfil a protective measure designed to eliminate, or, if that is not possible, to reduce, a risk, which, if it fails, could result in an increase of that risk;"
+            },
+            {
+                "score": 0.9439135784558678,
+                "source_link": "https://www.dguv.de/medien/ifa/en/pub/rep/pdf/rep07/biar0208/rep22008e.pdf",
+                "source_title": "BGIA/DGUV â€” Functional safety of machine controls (Application of EN ISO 13849), 2009 report",
+                "text": "In the first instance, a machine should be constructed such that it is no longer capable of presenting a hazard to the user (inherent safety). The second step is then that of reducing the risk of any hazard which may still arise. This can be attained by protective measures, which are now generally implemented by the control system. In order for these protective measures (also described in their engineered implementation as protective devices) to attain a defined quality in consideration of the risk, an essential step is that of risk assessment. The protective device then serves as a safety-related part of a control system and as such executes the safety function in full or at least in part. It may for example prevent unexpected start-up when an operator enters a hazardous area. Since several safety functions can easily be present on a machine (for example for automatic and setup modes), it is important that careful consideration is given to each individual hazard and the associated safety function."
+            }
+        ]
     },
     {
-        "question": "What does the CE marking on a piece of machinery signify?"
+        "question": "What does the CE marking on a piece of machinery signify?",
+        "answer": "(25) ‘CE marking’ means a marking by which the manufacturer indicates that machinery or a related product is in conformity with the applicable requirements set out in Union harmonisation legislation providing for its affixing;",
+        "contexts": [
+            {
+                "score": 1.0,
+                "source_link": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32023R1230",
+                "source_title": "Regulation (EU) 2023/1230 on machinery (Official Journal)",
+                "text": "(25) ‘CE marking’ means a marking by which the manufacturer indicates that machinery or a related product is in conformity with the applicable requirements set out in Union harmonisation legislation providing for its affixing;"
+            },
+            {
+                "score": 0.8619417765762933,
+                "source_link": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32023R1230",
+                "source_title": "Regulation (EU) 2023/1230 on machinery (Official Journal)",
+                "text": "(57) The CE marking should be the only marking which guarantees that machinery or related products comply with the requirements of this Regulation. Member States should therefore take appropriate action as regards other markings which are likely to mislead third parties as to the meaning or the form of the CE marking."
+            }
+        ]
     },
     {
-        "question": "What type of safety device is a light curtain, and what is its primary function?"
+        "question": "What type of safety device is a light curtain, and what is its primary function?",
+        "answer": "Safety light curtains are most simply described as photoelectric presence sensors speciﬁ cally designed to protect personnel from injuries related to hazardous machine motion. Also known as AOPDs (Active Opto-electronic Protective Devices) or ESPE (Electro Sensitive Protective Equipment), light curtains offer optimal safety, yet they can allow for greater productivity. They are ideally suited for applications where personnel need frequent and easy access to a point of operation hazard. Light curtains are designed and tested to meet IEC 61496-1 and -2. Safety Laser Scanners",
+        "contexts": [
+            {
+                "score": 1.0,
+                "source_link": "https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/safebk-rm002_-en-p.pdf",
+                "source_title": "Rockwell â€” Machinery SafeBook 5",
+                "text": "Safety light curtains are most simply described as photoelectric presence sensors speciﬁ cally designed to protect personnel from injuries related to hazardous machine motion. Also known as AOPDs (Active Opto-electronic Protective Devices) or ESPE (Electro Sensitive Protective Equipment), light curtains offer optimal safety, yet they can allow for greater productivity. They are ideally suited for applications where personnel need frequent and easy access to a point of operation hazard. Light curtains are designed and tested to meet IEC 61496-1 and -2. Safety Laser Scanners"
+            },
+            {
+                "score": 0.7612303708864547,
+                "source_link": "https://www.sick.com/media/docs/6/06/606/special_information_safety_guide_for_the_americas_en_im0032606.pdf",
+                "source_title": "SICK â€” Safety Guide for the Americas",
+                "text": "Material throughput with safety laser scanners, vertical protective fields, and protective field switching with suitably arranged sensors. Entry/exit function with horizontally installed safety light curtain in a processing station on an automobile assembly line."
+            }
+        ]
     },
     {
-        "question": "Name one of the key responsibilities of an 'importer' as defined by the new Machinery Regulation."
+        "question": "Name one of the key responsibilities of an 'importer' as defined by the new Machinery Regulation.",
+        "answer": "Where an importer considers or has reason to believe that machinery or a related product is not in conformity with this Regulation, the importer shall not place it on the market until it has been brought into conformity. Furthermore, where the machinery or related product presents a risk to the health and safety of persons and, where appropriate, domestic animals and property, and, where applicable, to the environment, the importer shall inform the manufacturer and the market surveillance authorities to that effect.\n3. Importers shall indicate their name, registered trade name or registered trade mark, and the postal address and website, email address or other digital contact at which they can be contacted, on the machinery or related product or, where that is not possible, on its packaging or in a document accompanying the machinery or related product. The contact details shall be in a language easily understood by users and market surveillance authorities.\n4. Importers shall ensure that the machinery or related product is accompanied by the instructions for use and the information referred to in Article 10(7).\n5. Importers shall ensure that, while the machinery or related product is under their responsibility, the storage or transport conditions do not jeopardise conformity with the essential health and safety requirements set out in Annex III.\n6. When deemed appropriate with regard to the risks presented by machinery or a related product, importers shall, in order to protect the health and safety of persons, and where appropriate, domestic animals and property, and, where applicable, the environment carry out sample testing of machinery or related products made available on the market, investigate, and, if necessary, keep a register of complaints, of non-conforming machinery or related products and machinery or related product recalls, and shall keep distributors informed of any such monitoring.\n7. Importers who consider or have reason to believe that machinery or a related product, which they have placed on the market, is not in conformity with this Regulation shall immediately take the corrective actions necessary to bring that machinery or related product into conformity, to withdraw it or recall it, as appropriate. Furthermore, where the machinery or related product presents a risk to the health and safety of persons and, where appropriate, domestic animals and property, and, where applicable, to the environment, importers shall immediately inform the competent national authorities of the Member States in which they made the machinery or related product available on the market to that effect, giving details, in particular, of the non-conformity and of any corrective actions taken.\n8. Importers shall, for at least 10 years after the machinery or related product has been placed on the market, keep a copy of the EU declaration of conformity at the disposal of the market surveillance authorities and ensure that the technical documentation set out in Annex IV, Part A, can be made available to those authorities upon request.",
+        "contexts": [
+            {
+                "score": 1.0,
+                "source_link": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32023R1230",
+                "source_title": "Regulation (EU) 2023/1230 on machinery (Official Journal)",
+                "text": "Where an importer considers or has reason to believe that machinery or a related product is not in conformity with this Regulation, the importer shall not place it on the market until it has been brought into conformity. Furthermore, where the machinery or related product presents a risk to the health and safety of persons and, where appropriate, domestic animals and property, and, where applicable, to the environment, the importer shall inform the manufacturer and the market surveillance authorities to that effect.\n3. Importers shall indicate their name, registered trade name or registered trade mark, and the postal address and website, email address or other digital contact at which they can be contacted, on the machinery or related product or, where that is not possible, on its packaging or in a document accompanying the machinery or related product. The contact details shall be in a language easily understood by users and market surveillance authorities.\n4. Importers shall ensure that the machinery or related product is accompanied by the instructions for use and the information referred to in Article 10(7).\n5. Importers shall ensure that, while the machinery or related product is under their responsibility, the storage or transport conditions do not jeopardise conformity with the essential health and safety requirements set out in Annex III.\n6. When deemed appropriate with regard to the risks presented by machinery or a related product, importers shall, in order to protect the health and safety of persons, and where appropriate, domestic animals and property, and, where applicable, the environment carry out sample testing of machinery or related products made available on the market, investigate, and, if necessary, keep a register of complaints, of non-conforming machinery or related products and machinery or related product recalls, and shall keep distributors informed of any such monitoring.\n7. Importers who consider or have reason to believe that machinery or a related product, which they have placed on the market, is not in conformity with this Regulation shall immediately take the corrective actions necessary to bring that machinery or related product into conformity, to withdraw it or recall it, as appropriate. Furthermore, where the machinery or related product presents a risk to the health and safety of persons and, where appropriate, domestic animals and property, and, where applicable, to the environment, importers shall immediately inform the competent national authorities of the Member States in which they made the machinery or related product available on the market to that effect, giving details, in particular, of the non-conformity and of any corrective actions taken.\n8. Importers shall, for at least 10 years after the machinery or related product has been placed on the market, keep a copy of the EU declaration of conformity at the disposal of the market surveillance authorities and ensure that the technical documentation set out in Annex IV, Part A, can be made available to those authorities upon request."
+            },
+            {
+                "score": 0.9808582183858987,
+                "source_link": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32023R1230",
+                "source_title": "Regulation (EU) 2023/1230 on machinery (Official Journal)",
+                "text": "(20) ‘importer’ means any natural or legal person established within the Union who places a product within the scope of this Regulation from a third country on the Union market;"
+            }
+        ]
     },
     {
-        "question": "In the context of risk assessment, what does the term 'Performance Level' (PL) refer to, and which standard is it associated with?"
+        "question": "In the context of risk assessment, what does the term 'Performance Level' (PL) refer to, and which standard is it associated with?",
+        "answer": "Required performance level (PLr) according to ISO 13849-1 This standard uses a risk graph to determine the required risk reduction level. The parameters S, F and P are used to determine the magnitude of the risk. The result of the procedure is a “required performance level” (PLr).",
+        "contexts": [
+            {
+                "score": 1.0,
+                "source_link": "https://www.sick.com/media/docs/8/78/678/special_information_guide_for_safe_machinery_en_im0014678.pdf",
+                "source_title": "SICK â€” Guide for Safe Machinery: Six Steps to a Safe Machine",
+                "text": "Required performance level (PLr) according to ISO 13849-1 This standard uses a risk graph to determine the required risk reduction level. The parameters S, F and P are used to determine the magnitude of the risk. The result of the procedure is a “required performance level” (PLr)."
+            },
+            {
+                "score": 0.903513776049679,
+                "source_link": "https://www.sick.com/media/docs/6/06/606/special_information_safety_guide_for_the_americas_en_im0032606.pdf",
+                "source_title": "SICK â€” Safety Guide for the Americas",
+                "text": "Required performance level (PLr) according to ISO 13849-1 This standard also uses a risk graph to determine the required safety level. The parameters severity, frequency and probability are used to determine the magnitude of the risk. The result of the procedure is a “required performance level” (PLr). 2"
+            }
+        ]
     }
 ]
