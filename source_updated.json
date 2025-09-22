@@ -1,0 +1,101 @@
+[
+  {
+    "filename": "regulation_eu_20231230_on_machinery_official_journal.pdf",
+    "title": "Regulation (EU) 2023/1230 on machinery (Official Journal)",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32023R1230"
+  },
+  {
+    "filename": "oem-sp123_-en-p.pdf",
+    "title": "Rockwell â€” A Guide to the Machinery Regulation (EU) 2023/1230",
+    "url": "https://literature.rockwellautomation.com/idc/groups/literature/documents/sp/oem-sp123_-en-p.pdf"
+  },
+  {
+    "filename": "special_information_guide_for_safe_machinery_en_im0014678.pdf",
+    "title": "SICK â€” Guide for Safe Machinery: Six Steps to a Safe Machine",
+    "url": "https://www.sick.com/media/docs/8/78/678/special_information_guide_for_safe_machinery_en_im0014678.pdf"
+  },
+  {
+    "filename": "special_information_safety_guide_for_the_americas_en_im0032606.pdf",
+    "title": "SICK â€” Safety Guide for the Americas",
+    "url": "https://www.sick.com/media/docs/6/06/606/special_information_safety_guide_for_the_americas_en_im0032606.pdf"
+  },
+  {
+    "filename": "safebk-rm002_-en-p.pdf",
+    "title": "Rockwell â€” Machinery SafeBook 5",
+    "url": "https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/safebk-rm002_-en-p.pdf"
+  },
+  {
+    "filename": "EN_ISO_13849-1_2TLC172003B02002.pdf",
+    "title": "ABB â€” Safety in Control Systems according to EN ISO 13849-1",
+    "url": "https://search.abb.com/library/Download.aspx?DocumentID=2TLC172003B02002"
+  },
+  {
+    "filename": "sistema_cookbook1_end.pdf",
+    "title": "IFA â€” SISTEMA Cookbook 1",
+    "url": "https://www.dguv.de/medien/ifa/en/pra/softwa/sistema/kochbuch/sistema_cookbook1_end.pdf"
+  },
+  {
+    "filename": "rep0217e.pdf",
+    "title": "IFA â€” Functional safety of machine controls (Application of EN ISO 13849), IFA Report 2/2017e",
+    "url": "https://www.dguv.de/medien/ifa/en/pub/rep/pdf/reports-2019/report0217e/rep0217e.pdf"
+  },
+  {
+    "filename": "dguv_â_fourth_edition_of_en_iso_138491_most_important_new_features_in_2023.pdf",
+    "title": "DGUV â€” Fourth edition of EN ISO 13849-1: Most important new features in 2023",
+    "url": "https://publikationen.dguv.de/widgets/pdf/download/article/4894"
+  },
+  {
+    "filename": "brochure-machine-safety-guide-pneumatic-solutions-en-7073434.pdf",
+    "title": "Emerson â€” Machine Safety Guide: Pneumatic Solutions",
+    "url": "https://www.emerson.com/documents/automation/brochure-machine-safety-guide-pneumatic-solutions-en-7073434.pdf"
+  },
+  {
+    "filename": "toolsGuideMachineGuardOptions.pdf",
+    "title": "SLAC â€” Machine Guarding Guideline",
+    "url": "https://www-group.slac.stanford.edu/esh/eshmanual/references/toolsGuideMachineGuardOptions.pdf"
+  },
+  {
+    "filename": "ifa_â_sistema_getting_started_information_of_ifa.pdf",
+    "title": "IFA â€” SISTEMA: Getting started (Information of IFA)",
+    "url": "https://www.certifico.com/component/attachments/download/11114"
+  },
+  {
+    "filename": "rep22008e.pdf",
+    "title": "BGIA/DGUV â€” Functional safety of machine controls (Application of EN ISO 13849), 2009 report",
+    "url": "https://www.dguv.de/medien/ifa/en/pub/rep/pdf/rep07/biar0208/rep22008e.pdf"
+  },
+  {
+    "filename": "GuidelinesForSafeMachinery.pdf",
+    "title": "SICK â€” Guidelines for Safe Machinery",
+    "url": "https://www.rae.ca/wp-content/uploads/GuidelinesForSafeMachinery.pdf"
+  },
+  {
+    "filename": "sil%20or%20pl%2C%20what%20is%20the%20difference.pdf",
+    "title": "Pilz â€” SIL or PL? What is the difference?",
+    "url": "https://www.lcautomation.com/wb_documents/pilz/sil%20or%20pl%2C%20what%20is%20the%20difference.pdf"
+  },
+  {
+    "filename": "Schmersal-Machine-Guarding-Safety-Products.pdf",
+    "title": "Schmersal â€” Machine Guarding Safety Products (catalogue)",
+    "url": "https://www.libertyelectricproducts.com/downloads/Schmersal-Machine-Guarding-Safety-Products.pdf"
+  },
+  {
+    "filename": "industrial-safety-pdfs/osha3157.pdf",
+    "title": "OSHA 3157 â€” A Guide for Protecting Workers from Woodworking Hazards",
+    "url": "https://www.osha.gov/sites/default/files/publications/osha3157.pdf"},
+  {
+    "filename": "Machine Guarding Checklist.pdf",
+    "title": "Schmersal â€” Machine Guarding Safety Products (catalogue)",
+    "url": "https://www.osha.gov/sites/default/files/2020-05/Machine%20Guarding%20Checklist.pdf"
+  },
+  {
+    "filename": "eaton-safety-manual-pu05907001z-en-us.pdf",
+    "title": "Eaton â€” Safety Manual (EN ISO 13849-1 and IEC 62061)",
+    "url": "https://www.eaton.com/content/dam/eaton/markets/machinebuilding/service-and-support/documents/eaton-safety-manual-pu05907001z-en-us.pdf"
+  },
+  {
+    "filename": "osha3170.pdf",
+    "title": "OSHA 3170 â€” Safeguarding Equipment and Protecting Employees from Amputations",
+    "url": "https://www.osha.gov/sites/default/files/publications/osha3170.pdf"
+  }
+]
