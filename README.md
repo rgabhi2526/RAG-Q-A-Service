@@ -91,7 +91,7 @@ python embedd_parallel.py
 This command starts the Flask web server. The Q&A service is now ready to accept requests.
 
 ```
-python api.py
+python Search_api.py
 ```
 The server will be running at http://127.0.0.1:8000.
 
