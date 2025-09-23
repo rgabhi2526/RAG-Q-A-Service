@@ -111,7 +111,7 @@ mode (string, optional, default: "hybrid"): The search mode. Can be "hybrid" or 
 1. Easy Question (using the default hybrid mode):
 
 ```
-curl -X POST http://127.0.0.1:5000/ask \
+curl -X POST http://127.0.0.1:8000/ask \
 -H "Content-Type: application/json" \
 -d '{
     "q": "When does the new Machinery Regulation take effect?",
@@ -122,7 +122,7 @@ curl -X POST http://127.0.0.1:5000/ask \
 This query contains the specific term "cyber security," which the hybrid reranker can use to improve the result over the baseline.
 
 ```
-curl -X POST http://127.0.0.1:5000/ask \
+curl -X POST http://127.0.0.1:8000/ask \
 -H "Content-Type: application/json" \
 -d '{
     "q": "What are the new rules for cyber security?",
