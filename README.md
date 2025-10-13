@@ -1,4 +1,4 @@
-# Industrial Safety Q&A Service
+# RAG Based Q&A Service
 This project is a small, end-to-end, extractive question-answering service built to answer questions from a collection of 20 documents on industrial and machine safety. It demonstrates the improvement of a hybrid search (vector + keyword) over a baseline vector-only search.
 
 The entire pipeline is built using free, local, CPU-only tools, from data ingestion and embedding to the final API.
